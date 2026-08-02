@@ -1,0 +1,9 @@
+.next/
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.local
+.vercel/

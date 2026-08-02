@@ -1,0 +1,14 @@
+frontend/node_modules
+frontend/.next
+node_modules
+.next
+__pycache__
+*.pyc
+.venv
+venv
+.env
+.env.local
+.vercel
+research_grade_type2_diabetes_dataset_v3.csv
+HOMI-IR (1).ipynb
+UI.ipynb
