@@ -146,4 +146,4 @@ def predict_insulin_resistance(payload: PredictionRequest):
             "Insulin resistance": probability,
         },
         model_input={key: float(value) for key, value in model_input.items()},
-    )
+    )git add .
